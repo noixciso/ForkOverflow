@@ -1,1 +1,5 @@
-<Solution />
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ForkOverflow.Domain/ForkOverflow.Domain.csproj" Id="bc19f496-ecb3-4a9b-8417-fa124024ea7c" />
+  </Folder>
+</Solution>
