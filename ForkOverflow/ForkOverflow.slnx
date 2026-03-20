@@ -1,5 +1,8 @@
 <Solution>
   <Folder Name="/src/">
     <Project Path="src/ForkOverflow.Domain/ForkOverflow.Domain.csproj" Id="bc19f496-ecb3-4a9b-8417-fa124024ea7c" />
+    <Project Path="src/ForkOverflow.Presenters/ForkOverflow.Presenters.csproj" Id="04985a4a-f9d1-4d4e-b9ea-d0aea457f871" />
+    <Project Path="src/ForkOverflow.Web/ForkOverflow.Web.csproj" Id="fabc30fc-038f-42b8-b070-566de64b32e4" />
+    <Project Path="src/FrokOverflow.Contracts/FrokOverflow.Contracts.csproj" Id="033e1183-a033-48fe-9d18-50c7592af15f" />
   </Folder>
 </Solution>
