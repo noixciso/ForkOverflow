@@ -1,4 +1,4 @@
-﻿namespace FrokOverflow.Contracts;
+﻿namespace ForkOverflow.Contracts;
 
 public record GetQuestionsDto(string Search, Guid[] TagIds, int Page, int Limit);
 

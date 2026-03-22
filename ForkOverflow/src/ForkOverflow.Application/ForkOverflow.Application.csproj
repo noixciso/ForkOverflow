@@ -7,10 +7,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Microsoft.AspNetCore.Mvc.Core" Version="2.3.9" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ForkOverflow.Domain\ForkOverflow.Domain.csproj" />
     <ProjectReference Include="..\ForkOverflow.Contracts\ForkOverflow.Contracts.csproj" />
   </ItemGroup>

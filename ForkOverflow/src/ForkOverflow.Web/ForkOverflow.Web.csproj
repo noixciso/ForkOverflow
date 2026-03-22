@@ -12,6 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\ForkOverflow.Application\ForkOverflow.Application.csproj" />
     <ProjectReference Include="..\ForkOverflow.Domain\ForkOverflow.Domain.csproj" />
     <ProjectReference Include="..\ForkOverflow.Presenters\ForkOverflow.Presenters.csproj" />
   </ItemGroup>
